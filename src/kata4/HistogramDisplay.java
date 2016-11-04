@@ -1,4 +1,4 @@
-package kata3;
+package kata4;
 
 
 import java.awt.Dimension;
